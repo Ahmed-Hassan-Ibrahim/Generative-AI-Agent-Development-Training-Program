@@ -7,7 +7,7 @@ This repository contains the tasks and practical assignments provided throughout
 Track the completion of each week's tasks using the checklist below.
 
 - [x] **W1 – Python Foundations**
-- [ ] **W2 – The Generative AI Landscape**
+- [x] **W2 – The Generative AI Landscape**
 - [ ] **W3 – Generative AI for the Developer**
 - [ ] **W4 – AI-Assisted Coding**
 - [ ] **W5 – Building Gen-AI Powered Apps**
